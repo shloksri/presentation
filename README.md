@@ -49,11 +49,11 @@ If not, I will take screenshots of the code, record respective output and includ
 		c. Effects of using tabindex = -1 , tabindex = 1
 		
 ## Part 3. Best practices (3-4 mins)
-	a. Importance of semantics
-	b. How to choose the right contrast and colors
-	c. Brief about a11y and how to use it correctly.
+	1. Importance of semantics
+	2. How to choose the right contrast and colors
+	3. Brief about a11y and how to use it correctly.
 
 ## Part 4: Testing accessibility (3-4 mins)
-	a. Axe tool - how it works, meaning of the score given by it, how to improve your website from the given score.
-	b. writing unit test cases for accessibility.
-	c. Popular screen readers and how to use them.
+	1. Axe tool - how it works, meaning of the score given by it, how to improve your website from the given score.
+	2. writing unit test cases for accessibility.
+	3. Popular screen readers and how to use them.
