@@ -6,7 +6,7 @@ Part 4: Testing accessibility
 
 Detailed explanation is given below.
 
-Part 1. Introduction (approx 3 minutes)
+###Part 1. Introduction (approx 3 minutes)
 	a. What is accessibility? 
 	b. Why is it required?
 	c. Who are the end users benefitted from this?
@@ -15,7 +15,7 @@ Part 1. Introduction (approx 3 minutes)
 		- contrast, 
 		- stressful vs soothing color-combination example.
 
-Part 2. Implementing accessibility on Forms in React (10-15 mins)
+### Part 2. Implementing accessibility on Forms in React (10-15 mins)
 
 Note: If a live demo is possible in the conference, I will show the below concepts via coding.
 If not, I will take screenshots of the code, record respective output and include everything in the presentation.
