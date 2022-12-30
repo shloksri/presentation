@@ -6,7 +6,7 @@ Part 4: Testing accessibility
 
 Detailed explanation is given below.
 
-## Part 1. Introduction (approx 3 minutes)
+## Part 1. Introduction (3-4 minutes)
 	a. What is accessibility? 
 	b. Why is it required?
 	c. Who are the end users benefitted from this?
@@ -45,12 +45,12 @@ If not, I will take screenshots of the code, record respective output and includ
 			b. explanation of why tabindex = 0 is important and ideally should not be assigned any other value if we want to focus on the content 
 			c. Effects of using tabindex = -1 , tabindex = 1
 		
-## Part 3. Best practices 
+## Part 3. Best practices (3-4 mins)
 	a. Importance of semantics
 	b. How to choose the right contrast and colors
 	c. Brief about a11y and how to use it correctly.
 
-## Part 4: Testing accessibility
+## Part 4: Testing accessibility (3-4 mins)
 	a. Axe tool - how it works, meaning of the score given by it, how to improve your website from the given score.
 	b. writing unit test cases for accessibility.
-	C. Popular screen readers and how to use them.
+	c. Popular screen readers and how to use them.
