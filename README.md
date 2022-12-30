@@ -1,8 +1,11 @@
 My presentation is divided into 4 parts:
 
 Part 1: Introduction - basics about accessibility
+
 Part 2: Implementing accessibility on Forms in React - Working code demo.
+
 Part 3: Best practices
+
 Part 4: Testing accessibility
 
 Detailed explanation is given below.
