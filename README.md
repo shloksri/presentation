@@ -24,9 +24,7 @@ If not, I will take screenshots of the code, record respective output and includ
 
 	1. I will create 2 forms to demonstrate a thorough example on how accessibility works.
 	2. Form A is a fully-accessible form with all necessary attributes like aria-label, semantic tags and focus management, thus representing how it is perceived by a blind person. Form B is without the above mentioned features.
-	3. Form structure - Both forms will be the same.
-	
-  It contains 4 fields and a Submit button.
+	3. Form structure - Both forms will be the same - 4 fields and a Submit button.
 		a. Text - Full name, Email
 		b. Radio buttons - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
 		c. Drop-down - City (10 random cities from England)
