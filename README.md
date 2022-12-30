@@ -40,14 +40,13 @@ If not, I will take screenshots of the code, record respective output and includ
 	7. After this, I will navigate through the Form A to show the correct implementation.
 	
 **Concept 2: Managing and trapping focus**
-	
-		1. During the representation of above Concept 1, I will also show how focus moves when navigating through the keyboard. 
-		This will be done by creating a fixed 1px border around the focused content.
-		2. After clicking submit, when the pop-up appears, I will show how the focus moves when the pop-up is opened and closed. I will also demo how to trap the focus inside the pop-up.
-		3. Discussion on “tabindex” attribute
-			a. values that can be assigned to it
-			b. explanation of why tabindex = 0 is important and ideally should not be assigned any other value if we want to focus on the content 
-			c. Effects of using tabindex = -1 , tabindex = 1
+
+	1. During the representation of above Concept 1, I will also show how focus moves when navigating through the keyboard. This will be done by creating a fixed 1px border around the focused content.
+	2. After clicking submit, when the pop-up appears, I will show how the focus moves when the pop-up is opened and closed. I will also demo how to trap the focus inside the pop-up.
+	3. Discussion on “tabindex” attribute
+		a. values that can be assigned to it
+		b. explanation of why tabindex = 0 is important and ideally should not be assigned any other value if we want to focus on the content 
+		c. Effects of using tabindex = -1 , tabindex = 1
 		
 ## Part 3. Best practices (3-4 mins)
 	a. Importance of semantics
