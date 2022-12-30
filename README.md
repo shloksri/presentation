@@ -17,7 +17,7 @@ Detailed explanation is given below.
 
 ## Part 2. Implementing accessibility on Forms in React (10-15 mins)
 
-Note: If a live demo is possible in the conference, I will show the below concepts via coding.
+**Note**: If a live demo is possible in the conference, I will show the below concepts via coding.
 If not, I will take screenshots of the code, record respective output and include everything in the presentation.
 
  **Concept 1: Perspective of a visually impaired person**
