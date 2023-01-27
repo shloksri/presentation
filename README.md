@@ -31,7 +31,7 @@ If not, I will take screenshots of the code, record respective output and includ
 	3. Form structure - Both forms will be the same - 4 fields and a Submit button.
 		a. Text - Full name, Email
 		b. Radio buttons - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
-		c. Drop-down - City (10 random cities from England)
+		c. Drop-down - City (10 random city names)
 		d. on clicking submit, a pop up will appear asking "Are you sure to submit? ", followed by 2 buttons - Yes / No.
 	
 	4. I will first navigate through Form B to show what it lags if we have not used accessibility features.
