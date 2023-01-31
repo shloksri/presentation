@@ -57,13 +57,13 @@ Both forms will be the same - 4 fields and a Submit button.
 
 **Difference** - 
 
-1. Form A is a fully-accessible form with all necessary attributes like 
-	-	aria-label, 
-	-	semantic tags
-	- 	focus management
-Thus representing how it is perceived by a visually-impaired person. 
+	1. Form A is a fully-accessible form with all necessary attributes like 
+		-	aria-label, 
+		-	semantic tags
+		- 	focus management
+	Thus representing how it is perceived by a visually-impaired person. 
 
-2. Form B is without the above mentioned features.
+	2. Form B is without the above mentioned features.
 
 **Form beahviour:** On clicking submit, a pop up will appear asking "Are you sure to submit? ", followed by 2 buttons - Yes / No.
 
