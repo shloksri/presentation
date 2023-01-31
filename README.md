@@ -69,7 +69,7 @@ Both forms will be the same - 4 fields and a Submit button.
 		-	Navigate the form using keyboard and mouse to show their difference.
 		-	Screen reader will be turned on, showing its behavior on different types of fields
 	
-	2. We will be able to hear the respective field names like name, email, etc. This will demonstrate the importance of semantic tags.
+	2. We will be able to hear the respective field names like name, email, etc, thus demonstrating importance of semantic tags.
 	
 	3. After this, I will navigate through the Form A to show the correct implementation.
 	
@@ -81,7 +81,7 @@ Both forms will be the same - 4 fields and a Submit button.
 	4. I will also demo how to trap the focus inside the pop-up.
 	5. Discussion on “tabindex” attribute
 		a. Values that can be assigned to it
-		b. Explanation of why tabindex = 0 is important, and ideally should not be assigned any other value if we want to focus on the content 
+		b. Explanation of why tabindex = 0 is important.
 		c. Effects of using tabindex = -1 , tabindex = 1
 		
 ## Part 3. Best practices (3-4 mins)
