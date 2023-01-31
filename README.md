@@ -1,7 +1,7 @@
 # Title - Is your website visible??
-Your website is the face of your product. It is literally the first thing anyone will go through if they want to know about you, your company, your services or anything that you represent. It automatically creates a positive impact on anyone who can get in a few clicks.
+Your website is the face of your product. It is literally the first thing anyone will go through if they want to know about you, your company, your services or anything that you represent. It automatically creates a positive impact on anyone who can get it in a few clicks.
 
-But have you ever wondered if your website is accessible to everyone? What about the people with disabilities? 
+But have you ever wondered if it is accessible to everyone? What about the people with disabilities? 
 
 If they can understand, navigate, and interact with your website without any hassle, that makes your product accessible to everyone who is using the web. 
 
@@ -24,13 +24,10 @@ I am using **React JS** as the primary language for code demo.
 
 My presentation is divided into 4 parts:
 
-**Part 1**: Introduction - basics of accessibility
-
-**Part 2**: Implementing accessibility on Forms in React - Working code demo.
-
-**Part 3**: Best practices
-
-**Part 4**: Testing accessibility
+	1: Introduction - basics of accessibility
+	2: Implementing accessibility on Forms in React - Working code demo.
+	3: Best practices
+	4: Testing accessibility
 
 
 ## Part 1. Introduction
@@ -42,18 +39,19 @@ My presentation is divided into 4 parts:
 
 ## Part 2. Implementing accessibility on Forms in React
 
-**Note for the Organizers**: If a live demo is possible in the conference, I will show the below concepts via coding.
-If not, I can take screenshots of the code, record respective output and include everything in the presentation.
+**Note for the Organizers**: If a live coding demo is possible in the conference, I will run the app and show a live demo.
+If not, I can take screenshots of the code, record respective output and include everything in the presentation.  
+
 
 I will create 2 forms, FormA and FormB, to demonstrate a thorough example on how accessibility works.
 	
 **Structure of Forms:**
 
-Both forms will be the same - 4 fields and a Submit button.
+Both forms will be same - 4 fields & a Submit button.
 
-	a. Text - Full name, Email
-	b. Drop-down - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
-	c. Radio buttons - Your Country (Israel, India, UK)
+	a. 2 Text fields - Full name, Email
+	b. 1 Drop-down field - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
+	c. 1 Radio button field - Your Country (Israel, India, UK)
 
 **Difference** - 
 
@@ -73,8 +71,8 @@ Both forms will be the same - 4 fields and a Submit button.
 
 **Concept 1: Perspective of a visually impaired person**
 	
-	1. I will first demo Form B to show what it lags when we have not complied with accessibility rules.
-		-	Navigate the form using keyboard and mouse to show their difference.
+	1. I will first demo Form B to show what it lags when we have not implemented accessibility rules.
+		-	Navigation of form using keyboard and mouse to show difference.
 		-	Screen reader will be turned on, showing its behavior on different types of fields
 	
 	2. We will be able to hear the respective field names like name, email, etc, thus demonstrating importance of semantic tags.
