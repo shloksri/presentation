@@ -51,9 +51,9 @@ I will create 2 forms, FormA and FormB, to demonstrate a thorough example on how
 
 Both forms will be the same - 4 fields and a Submit button.
 
-	a. **Text** - Full name, Email
-	b. **Drop-down** - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
-	c. **Radio buttons** - Your Country (Israel, India, UK)
+	a. Text - Full name, Email
+	b. Drop-down - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
+	c. Radio buttons - Your Country (Israel, India, UK)
 
 **Difference** - 
 
