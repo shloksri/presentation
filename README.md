@@ -45,6 +45,7 @@ Both forms will be the same - 4 fields and a Submit button.
 		c. Radio buttons - Your Country (Israel, India, UK)
 
 **Difference** - 
+
 	1. Form A is a fully-accessible form with all necessary attributes like 
 		-	aria-label, 
 		-	semantic tags
