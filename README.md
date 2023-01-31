@@ -1,5 +1,11 @@
 # Title - Is your website visible??
-Your website is the face of your product. It is literally the first thing anyone will go through if they want to know about you, your company, your services or anything that you represent. It automatically creates a positive impact on anyone who can get in a few clicks. But have you ever wondered if your website is accessible to everyone? What about the people with disabilities? If they can understand, navigate, and interact with your website without any hassle, that makes your product accessible to everyone who is using the web. In this talk, I will discuss about what accessibility is, why it is important, who the end users are that get benefitted from it, and finally how to implement it.
+Your website is the face of your product. It is literally the first thing anyone will go through if they want to know about you, your company, your services or anything that you represent. It automatically creates a positive impact on anyone who can get in a few clicks.
+
+But have you ever wondered if your website is accessible to everyone? What about the people with disabilities? 
+
+If they can understand, navigate, and interact with your website without any hassle, that makes your product accessible to everyone who is using the web. 
+
+In this talk, I will discuss about what accessibility is, why it is important, who the end users are that get benefitted from it, and finally how to implement it.
 
 ## Short Summary
 
