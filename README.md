@@ -51,9 +51,9 @@ I will create 2 forms, FormA and FormB, to demonstrate a thorough example on how
 
 Both forms will be the same - 4 fields and a Submit button.
 
-a. **Text** - Full name, Email
-b. **Drop-down** - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
-c. **Radio buttons** - Your Country (Israel, India, UK)
+	a. **Text** - Full name, Email
+	b. **Drop-down** - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
+	c. **Radio buttons** - Your Country (Israel, India, UK)
 
 **Difference** - 
 
@@ -66,6 +66,7 @@ Thus representing how it is perceived by a visually-impaired person.
 2. Form B is without the above mentioned features.
 
 **Form beahviour:** On clicking submit, a pop up will appear asking "Are you sure to submit? ", followed by 2 buttons - Yes / No.
+
 		a. Clicking on Yes will submit the form and display the details.
 		b. Clicking on No will return the focus of the screen to the original form with your filled values. 
 
@@ -73,8 +74,8 @@ Thus representing how it is perceived by a visually-impaired person.
 **Concept 1: Perspective of a visually impaired person**
 	
 1. I will first demo Form B to show what it lags when we have not complied with accessibility rules.
-	-	Navigate the form using keyboard and mouse to show their difference.
-	-	Screen reader will be turned on, showing its behavior on different types of fields
+		-	Navigate the form using keyboard and mouse to show their difference.
+		-	Screen reader will be turned on, showing its behavior on different types of fields
 	
 2. We will be able to hear the respective field names like name, email, etc, thus demonstrating importance of semantic tags.
 	
