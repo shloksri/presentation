@@ -9,13 +9,13 @@ In this talk, I will discuss about what accessibility is, why it is important, w
 
 ## Short Summary
 
-1. Accessibility - What it is, Why it's required?
-2. Explanation about WCAG, WAI-ARIA, ADA Compliance.
-3. Navigation of a sample website via keyboard
-4. Code demonstration of Accessible website using React forms - Semantic tags, labels, Focus management while navigating through keyboard. 
-5. Best pratices for Accessibility
-6. Testing Tools - Demo on how to use them.
-7. Estimated time of talk - 20-30 mins
+	1. Accessibility - What it is, Why it's required?
+	2. Explanation about WCAG, WAI-ARIA, ADA Compliance.
+	3. Navigation of a sample website via keyboard
+	4. Code demonstration of Accessible website using React forms - Semantic tags, labels, Focus management while navigating through keyboard. 
+	5. Best pratices for Accessibility
+	6. Testing Tools - Demo on how to use them.
+	7. Estimated time of talk - 20-30 mins
 
 I am using **React JS** as the primary language for code demo.
 
