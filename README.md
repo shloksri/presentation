@@ -19,8 +19,11 @@ I am using **React JS** as the primary language for code demo.
 My presentation is divided into 4 parts:
 
 **Part 1**: Introduction - basics of accessibility
+
 **Part 2**: Implementing accessibility on Forms in React - Working code demo.
+
 **Part 3**: Best practices
+
 **Part 4**: Testing accessibility
 
 
@@ -39,7 +42,9 @@ If not, I can take screenshots of the code, record respective output and include
 I will create 2 forms, FormA and FormB, to demonstrate a thorough example on how accessibility works.
 	
 **Structure of Forms:**
+
 Both forms will be the same - 4 fields and a Submit button.
+
 		a. Text - Full name, Email
 		b. Drop-down - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
 		c. Radio buttons - Your Country (Israel, India, UK)
