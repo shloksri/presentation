@@ -73,13 +73,13 @@ Thus representing how it is perceived by a visually-impaired person.
 
 **Concept 1: Perspective of a visually impaired person**
 	
-1. I will first demo Form B to show what it lags when we have not complied with accessibility rules.
+	1. I will first demo Form B to show what it lags when we have not complied with accessibility rules.
 		-	Navigate the form using keyboard and mouse to show their difference.
 		-	Screen reader will be turned on, showing its behavior on different types of fields
 	
-2. We will be able to hear the respective field names like name, email, etc, thus demonstrating importance of semantic tags.
+	2. We will be able to hear the respective field names like name, email, etc, thus demonstrating importance of semantic tags.
 	
-3. After this, I will navigate through the Form A to show the correct implementation.
+	3. After this, I will navigate through the Form A to show the correct implementation.
 	
 **Concept 2: Managing and trapping focus**
 
