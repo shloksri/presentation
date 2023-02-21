@@ -1,11 +1,11 @@
 # Title - Is your website visible??
-Your website is the face of your product. It is literally the first thing anyone will go through if they want to know about you, your company, your services or anything that you represent. It automatically creates a positive impact on anyone who can get it in a few clicks.
+Your website is the face of your product. It is literally the first thing anyone will go through if they want to know about you, your company, your services or anything that you represent.
 
-But have you ever wondered if it is accessible to everyone? What about the people with disabilities? 
+But have you ever wondered if it's accessible to everyone? What about the people with disabilities? 
 
 If they can understand, navigate, and interact with your website without any hassle, that makes your product accessible to everyone who is using the web. 
 
-In this talk, I will discuss about what accessibility is, why it is important, who the end users are that get benefitted from it, and finally how to implement it.
+In this talk, I will discuss what accessibility is, why it is important, who the end users are that get benefitted from it, and finally how to implement it.
 
 ## Short Summary
 
@@ -13,7 +13,7 @@ In this talk, I will discuss about what accessibility is, why it is important, w
 	2. Explanation about WCAG, WAI-ARIA, ADA Compliance.
 	3. Navigation of a sample website via keyboard
 	4. Code demonstration of Accessible website using React forms - Semantic tags, labels, Focus management while navigating through keyboard. 
-	5. Best pratices for Accessibility
+	5. Best practices for Accessibility
 	6. Testing Tools - Demo on how to use them.
 	7. Estimated time of talk - 20-30 mins
 
@@ -47,7 +47,7 @@ I will create 2 forms, FormA and FormB, to demonstrate a thorough example on how
 	
 **Structure of Forms:**
 
-Both forms will be same - 4 fields & a Submit button.
+Both forms will be the same - 4 fields & a Submit button.
 
 	a. 2 Text fields - Full name, Email
 	b. 1 Drop-down field - Preferred Javascript library/framework (Options = React/ Angular/ Vue.js/ Others)
@@ -63,7 +63,7 @@ Both forms will be same - 4 fields & a Submit button.
 
 	2. Form B is without the above mentioned features.
 
-**Form beahviour:** On clicking submit, a pop up will appear asking "Are you sure to submit? ", followed by 2 buttons - Yes / No.
+**Form behaviour:** On clicking submit, a pop up will appear asking "Are you sure to submit? ", followed by 2 buttons - Yes / No.
 
 		a. Clicking on Yes will submit the form and display the details.
 		b. Clicking on No will return the focus of the screen to the original form with your filled values. 
@@ -75,7 +75,7 @@ Both forms will be same - 4 fields & a Submit button.
 		-	Navigation of form using keyboard and mouse to show difference.
 		-	Screen reader will be turned on, showing its behavior on different types of fields
 	
-	2. We will be able to hear the respective field names like name, email, etc, thus demonstrating importance of semantic tags.
+	2. We will be able to hear the respective field names like name, email, etc, thus demonstrating the importance of semantic tags.
 	
 	3. After this, I will navigate through the Form A to show the correct implementation.
 	
@@ -83,7 +83,7 @@ Both forms will be same - 4 fields & a Submit button.
 
 	1. During the demo of above Concept 1, I will also show how focus moves when navigating through the keyboard.
 	2. This will be done by creating a fixed 1px border around the focused content.
-	3. After clicking submit, when pop-up appears, I will show how focus moves when the pop-up is opened and closed. 
+	3. After clicking submit, when the pop-up appears, I will show how focus moves when the pop-up is opened and closed. 
 	4. I will also demo how to trap the focus inside the pop-up.
 	5. Discussion on “tabindex” attribute
 		a. Values that can be assigned to it
