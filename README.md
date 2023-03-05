@@ -118,11 +118,11 @@ There are 2 forms, FormA and FormB, to demonstrate a thorough example on how acc
 **Difference** -
 
     1. Form A is a fully-accessible form with all necessary attributes -
-    	a.	aria-label,
+        a.	aria-label,
         b.  aria-live,
         c.  aria-labelledby
-    	d.	semantic tags
-    	e.	focus management
+        d.	semantic tags
+        e.	focus management
 
     Thus representing how it is perceived by a visually-impaired person.
 
