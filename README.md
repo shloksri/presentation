@@ -8,7 +8,10 @@ Can a visually impaired person access your page with the same ease as others??
 
 > That's where the concept of accessibility comes in.
 
-    If anyone using the web, regardless of their disabilities can navigate, interact & access your website without any hassle, it makes your product truly accessible to everyone.
+    If anyone using the web, regardless of their disabilities can 
+    navigate, 
+    interact & 
+    access your website without any hassle, it makes your product truly accessible to everyone.
 
 **In this talk, I will discuss about -**
 
