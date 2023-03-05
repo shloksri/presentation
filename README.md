@@ -36,8 +36,6 @@ Can a visually impaired person access your page with the same ease as others??
 
 ## **Detailed Explanation**
 
----
-
 ### My presentation is divided into 4 parts:
 
     Part 1: Introduction - Basics of accessibility (3-4 mins)
